@@ -1,0 +1,6 @@
+transformers
+torch
+python-dotenv
+pyttsx3
+speech_recognition
+cohere
